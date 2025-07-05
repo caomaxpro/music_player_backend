@@ -10,4 +10,4 @@ wheels/
 .venv
 env 
 env2 
-pretrained_models
+pretrained_models/2stems
