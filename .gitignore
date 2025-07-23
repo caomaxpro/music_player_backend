@@ -8,6 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+.env
 env 
 env2 
 pretrained_models/2stems
+app/services/pretrained_models/
